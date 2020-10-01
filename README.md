@@ -17,3 +17,11 @@ For example the data analyzed was from a logger that was setup with the followin
 So every minute a 10 seconds of data will be taken at 10 Hz. 
 For a total of 100 data points.
 This setup will not measure waves with periods longer than 10 seconds.
+Perhaps, the sampling period should be increased to 60 seconds.
+Then the burst interval should be increased to 300 seconds (5 minutes) or more to save power.
+
+The wave periods in coastal areas are generally less than 20 seconds.
+
+References
+1. <http://www.coastalwiki.org/wiki/Waves>
+2. <https://pubs.usgs.gov/of/2002/of02-206/phy-environment/n-wave-climate.html>
